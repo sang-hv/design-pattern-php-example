@@ -25,7 +25,7 @@ class MementoTest extends TestCase
         $ticket->assign();
         $this->assertSame(State::STATE_ASSIGNED, (string) $ticket->getState());
 
-        // now restore to the opened state, but verify that the state object has been cloned for the memento
+        // now restore to the opened State, but verify that the State object has been cloned for the Memento
         $ticket->restoreFromMemento($memento);
 
         $this->assertSame(State::STATE_OPENED, (string) $ticket->getState());

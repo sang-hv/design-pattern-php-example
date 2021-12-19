@@ -35,9 +35,9 @@ msgid ""
 "initialization) in them, while the user still works with his own entity "
 "classes and will never use nor touch the proxies"
 msgstr ""
-"Doctrine2 utilizza i proxy per implementare alcune magie del framework "
+"Doctrine2 utilizza i Proxy per implementare alcune magie del framework "
 "(ad esempio inizializzazione pigra), mentre l'utente lavora con le sue classi entità "
-"senza utilizzare nè toccare i proxy."
+"senza utilizzare nè toccare i Proxy."
 
 #: ../../Structural/Proxy/README.rst:13
 msgid "UML Diagram"

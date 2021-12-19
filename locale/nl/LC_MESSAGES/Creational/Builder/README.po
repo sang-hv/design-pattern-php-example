@@ -27,11 +27,11 @@ msgstr "Bouwer is een interface die onderdelen van een complex object bouwt."
 
 #: ../../Creational/Builder/README.rst:9
 msgid ""
-"Sometimes, if the builder has a better knowledge of what it builds, this "
-"interface could be an abstract class with default methods (aka adapter)."
+"Sometimes, if the Builder has a better knowledge of what it builds, this "
+"interface could be an abstract class with default methods (aka Adapter)."
 msgstr ""
 "Soms, als de bouwer een betere kennis heeft van wat hij bouwt, kan deze "
-"interface een abstracte klasse zijn met standaardmethoden (ook wel adapter "
+"interface een abstracte klasse zijn met standaardmethoden (ook wel Adapter "
 "genoemd)."
 
 #: ../../Creational/Builder/README.rst:12
@@ -44,11 +44,11 @@ msgstr ""
 
 #: ../../Creational/Builder/README.rst:15
 msgid ""
-"Note: Builders have often a fluent interface, see the mock builder of "
+"Note: Builders have often a fluent interface, see the mock Builder of "
 "PHPUnit for example."
 msgstr ""
 "Let op: Builders hebben vaak een vloeiende interface, zie bijvoorbeeld de "
-"mock builder van PHPUnit."
+"mock Builder van PHPUnit."
 
 #: ../../Creational/Builder/README.rst:19
 msgid "Examples"

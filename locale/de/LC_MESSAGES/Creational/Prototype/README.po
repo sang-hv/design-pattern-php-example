@@ -24,7 +24,7 @@ msgstr "Zweck"
 #: ../../Creational/Prototype/README.rst:7
 msgid ""
 "To avoid the cost of creating objects the standard way (new Foo()) and "
-"instead create a prototype and clone it."
+"instead create a Prototype and clone it."
 msgstr ""
 "Um die Kosten der Erzeugung von Objekten über den normalen Weg (new Foo()) "
 "zu vermeiden und stattdessen einen Prototyp zu erzeugen, der bei Bedarf "

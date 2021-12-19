@@ -22,7 +22,7 @@ msgstr "Amaç"
 #: ../../Behavioral/State/README.rst:7
 msgid ""
 "Encapsulate varying behavior for the same routine based on an object's "
-"state. This can be a cleaner way for an object to change its behavior at "
+"State. This can be a cleaner way for an object to change its behavior at "
 "runtime without resorting to large monolithic conditional statements."
 msgstr ""
 "Bir nesnenin durumuna bağlı olarak aynı yordam (routine) için değişen davranışları sarmalar. "

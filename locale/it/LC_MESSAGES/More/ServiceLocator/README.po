@@ -32,7 +32,7 @@ msgstr ""
 "Viola il principio di inversione delle dipendenze. Il service locator nasconde "
 "le dipendenze delle classi invece di esporle come si farebbe utilizzando la Dependency Injection. "
 "Nel caso di cambiamenti di queste dipendenze rischiate di rompere le funzionalità "
-"delle classi che state utilizzando, rendendo il vostro sistema difficile da manutenere."
+"delle classi che State utilizzando, rendendo il vostro sistema difficile da manutenere."
 
 #: ../../More/ServiceLocator/README.rst:5
 msgid "Purpose"

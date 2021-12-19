@@ -29,8 +29,8 @@ msgstr ""
 
 #: ../../Creational/Builder/README.rst:9
 msgid ""
-"Sometimes, if the builder has a better knowledge of what it builds, this "
-"interface could be an abstract class with default methods (aka adapter)."
+"Sometimes, if the Builder has a better knowledge of what it builds, this "
+"interface could be an abstract class with default methods (aka Adapter)."
 msgstr ""
 "A veces, si el constructor conoce bien lo que está construyendo, esta "
 "interfaz podría ser una clase abstracta con métodos por defecto (también "
@@ -46,11 +46,11 @@ msgstr ""
 
 #: ../../Creational/Builder/README.rst:15
 msgid ""
-"Note: Builders have often a fluent interface, see the mock builder of "
+"Note: Builders have often a fluent interface, see the mock Builder of "
 "PHPUnit for example."
 msgstr ""
 "Nota: Los constructores suelen tener una interfaz fluida, fíjate en el mock "
-"builder de PHPUnit por ejemplo."
+"Builder de PHPUnit por ejemplo."
 
 #: ../../Creational/Builder/README.rst:19
 msgid "Examples"

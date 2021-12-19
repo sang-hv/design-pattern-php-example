@@ -24,12 +24,12 @@ msgstr "Doel"
 #: ../../Structural/Adapter/README.rst:7
 msgid ""
 "To translate one interface for a class into a compatible interface. An "
-"adapter allows classes to work together that normally could not because of "
+"Adapter allows classes to work together that normally could not because of "
 "incompatible interfaces by providing its interface to clients while using "
 "the original interface."
 msgstr ""
 "Om een ​​interface voor een klas te vertalen naar een compatibele interface. "
-"Een adapter stelt klassen in staat om samen te werken die normaal niet "
+"Een Adapter stelt klassen in staat om samen te werken die normaal niet "
 "zouden kunnen vanwege incompatibele interfaces door de interface aan "
 "clients te verstrekken terwijl de originele interface wordt gebruikt."
 
@@ -38,7 +38,7 @@ msgid "Examples"
 msgstr "Bijvoorbeeld"
 
 #: ../../Structural/Adapter/README.rst:15
-msgid "DB Client libraries adapter"
+msgid "DB Client libraries Adapter"
 msgstr "Adapter voor DB-clientbibliotheken"
 
 #: ../../Structural/Adapter/README.rst:16

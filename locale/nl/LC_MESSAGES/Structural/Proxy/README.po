@@ -35,9 +35,9 @@ msgid ""
 "initialization) in them, while the user still works with his own entity "
 "classes and will never use nor touch the proxies"
 msgstr ""
-"Doctrine2 gebruikt proxy's om raamwerkmagie (bijv. Luie initialisatie) "
+"Doctrine2 gebruikt Proxy's om raamwerkmagie (bijv. Luie initialisatie) "
 "daarin te implementeren, terwijl de gebruiker nog steeds met zijn eigen "
-"entiteitsklassen werkt en de proxy's nooit zal gebruiken of aanraken"
+"entiteitsklassen werkt en de Proxy's nooit zal gebruiken of aanraken"
 
 #: ../../Structural/Proxy/README.rst:17
 msgid "UML Diagram"

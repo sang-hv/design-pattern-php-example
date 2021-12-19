@@ -25,12 +25,12 @@ msgstr "Yapıcı, karmaşık bir nesnenin parçalarını oluşturan bir arayüzd
 
 #: ../../Creational/Builder/README.rst:9
 msgid ""
-"Sometimes, if the builder has a better knowledge of what it builds, this "
-"interface could be an abstract class with default methods (aka adapter)."
+"Sometimes, if the Builder has a better knowledge of what it builds, this "
+"interface could be an abstract class with default methods (aka Adapter)."
 msgstr ""
 "Bazen yapıcı, oluşturduğu şey hakkında daha iyi bir bilgiye sahipse, "
 "bir arayüz (interface) yerine varsayılan yöntemlere (method) sahip soyut "
-"bir sınıf (class) olabilir (diğer bir deyişle bir adaptör (adapter))."
+"bir sınıf (class) olabilir (diğer bir deyişle bir adaptör (Adapter))."
 
 #: ../../Creational/Builder/README.rst:12
 msgid ""
@@ -42,7 +42,7 @@ msgstr ""
 
 #: ../../Creational/Builder/README.rst:15
 msgid ""
-"Note: Builders have often a fluent interface, see the mock builder of "
+"Note: Builders have often a fluent interface, see the mock Builder of "
 "PHPUnit for example."
 msgstr ""
 "Not: Yapıcılar çoğu zaman akıcı bir arayüze sahiptir, örneğin PHPUnit'in "

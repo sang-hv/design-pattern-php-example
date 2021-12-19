@@ -24,7 +24,7 @@ msgstr "Назначение"
 #: ../../Structural/Adapter/README.rst:7
 msgid ""
 "To translate one interface for a class into a compatible interface. An "
-"adapter allows classes to work together that normally could not because of "
+"Adapter allows classes to work together that normally could not because of "
 "incompatible interfaces by providing its interface to clients while using "
 "the original interface."
 msgstr ""
@@ -39,7 +39,7 @@ msgid "Examples"
 msgstr "Примеры"
 
 #: ../../Structural/Adapter/README.rst:15
-msgid "DB Client libraries adapter"
+msgid "DB Client libraries Adapter"
 msgstr "Адаптер клиентских библиотек для работы с базами данных"
 
 #: ../../Structural/Adapter/README.rst:16

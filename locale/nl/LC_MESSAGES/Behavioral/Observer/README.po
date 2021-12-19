@@ -24,7 +24,7 @@ msgstr "Doel"
 #: ../../Behavioral/Observer/README.rst:7
 msgid ""
 "To implement a publish/subscribe behaviour to an object, whenever a \"Subject\" object changes its "
-"state, the attached \"Observers\" will be notified. It is used to shorten the amount of coupled objects "
+"State, the attached \"Observers\" will be notified. It is used to shorten the amount of coupled objects "
 "and uses loose coupling instead."
 msgstr ""
 "Om een ​​publicatie- / abonneergedrag voor een object te implementeren, worden de bijgevoegde \"Waarnemers"

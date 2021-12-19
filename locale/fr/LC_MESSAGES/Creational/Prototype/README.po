@@ -23,9 +23,9 @@ msgstr "Rôle"
 #: ../../Creational/Prototype/README.rst:7
 msgid ""
 "To avoid the cost of creating objects the standard way (new Foo()) and "
-"instead create a prototype and clone it."
+"instead create a Prototype and clone it."
 msgstr ""
-"Minimise le coût de création de nouveaux objets en clonant un objet prototype"
+"Minimise le coût de création de nouveaux objets en clonant un objet Prototype"
 
 #: ../../Creational/Prototype/README.rst:11
 msgid "Examples"

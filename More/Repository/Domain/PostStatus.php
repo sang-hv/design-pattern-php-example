@@ -36,7 +36,7 @@ class PostStatus
         $state = array_search($status, self::$validStates);
 
         if ($state === false) {
-            throw new InvalidArgumentException('Invalid state given!');
+            throw new InvalidArgumentException('Invalid State given!');
         }
 
         return new self($state, $status);

@@ -34,7 +34,7 @@ msgstr ""
 #: ../../Behavioral/Visitor/README.rst:12
 msgid ""
 "The contract is an abstract class but you can have also a clean interface. In that case, each "
-"Visitor has to choose itself which method to invoke on the visitor."
+"Visitor has to choose itself which method to invoke on the Visitor."
 msgstr ""
 "Der Vertrag ist eine Abstrakte Klasse aber diese kann auch ein sauberes Interface besitzen. In "
 "diesem Fall entscheidet jeder Besucher selbst welche Methode er aufruft."

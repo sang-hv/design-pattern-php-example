@@ -41,7 +41,7 @@ msgstr ""
 "(но понякога само един) интерфейс и, разбира се, да намали сложността."
 
 #: ../../Structural/Facade/README.rst:15
-msgid "A facade does not forbid you the access to the sub-system"
+msgid "A Facade does not forbid you the access to the sub-system"
 msgstr "Фасадата не ви забранява достъпа до подсистемата"
 
 #: ../../Structural/Facade/README.rst:16
@@ -50,7 +50,7 @@ msgstr "Можете (трябва) да имате множество фаса�
 
 #: ../../Structural/Facade/README.rst:18
 msgid ""
-"That's why a good facade has no ``new`` in it. If there are multiple "
+"That's why a good Facade has no ``new`` in it. If there are multiple "
 "creations for each method, it is not a Facade, it's a Builder or a [Abstract"
 "\\|Static\\|Simple] Factory [Method]."
 msgstr ""
@@ -60,7 +60,7 @@ msgstr ""
 
 #: ../../Structural/Facade/README.rst:22
 msgid ""
-"The best facade has no ``new`` and a constructor with interface-type-hinted "
+"The best Facade has no ``new`` and a constructor with interface-type-hinted "
 "parameters. If you need creation of new instances, use a Factory as argument."
 msgstr ""
 "Най-добрата фасада няма ``new`` и конструктор с interface-type-hinted "

@@ -53,7 +53,7 @@ msgid "Examples"
 msgstr "Примери"
 
 #: ../../Behavioral/Strategy/README.rst:21
-msgid "sorting a list of objects, one strategy by date, the other by id"
+msgid "sorting a list of objects, one Strategy by date, the other by id"
 msgstr "сортиране на списък с обекти, едната стратегия по дата, другата по id"
 
 #: ../../Behavioral/Strategy/README.rst:22

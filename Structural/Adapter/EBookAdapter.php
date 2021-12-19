@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace DesignPatterns\Structural\Adapter;
 
 /**
- * This is the adapter here. Notice it implements Book,
+ * This is the Adapter here. Notice it implements Book,
  * therefore you don't have to change the code of the client which is using a Book
  */
 class EBookAdapter implements Book

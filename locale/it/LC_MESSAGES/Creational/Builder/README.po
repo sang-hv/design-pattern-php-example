@@ -26,11 +26,11 @@ msgstr "Un Builder è un'interfaccia che costruisce le parti di un oggetto compl
 
 #: ../../Creational/Builder/README.rst:9
 msgid ""
-"Sometimes, if the builder has a better knowledge of what it builds, this "
-"interface could be an abstract class with default methods (aka adapter)."
+"Sometimes, if the Builder has a better knowledge of what it builds, this "
+"interface could be an abstract class with default methods (aka Adapter)."
 msgstr ""
-"A volte se il builder è a conoscenza di cosa sta costruendo, questa "
-"interfaccia può essere modellata come una classe astratta con metodi predefiniti (alias adapter)."
+"A volte se il Builder è a conoscenza di cosa sta costruendo, questa "
+"interfaccia può essere modellata come una classe astratta con metodi predefiniti (alias Adapter)."
 
 #: ../../Creational/Builder/README.rst:12
 msgid ""
@@ -38,15 +38,15 @@ msgid ""
 "complex inheritance tree for builders too."
 msgstr ""
 "Se l'oggetto da costruire possiede una gerarchia complessa, analogamente "
-"varrà la stessa cosa per i builder"
+"varrà la stessa cosa per i Builder"
 
 #: ../../Creational/Builder/README.rst:15
 msgid ""
-"Note: Builders have often a fluent interface, see the mock builder of "
+"Note: Builders have often a fluent interface, see the mock Builder of "
 "PHPUnit for example."
 msgstr ""
 "Nota : I Builder spesso hanno un interfaccia fluente come ad esempio "
-"il mock builder di PHPUnit"
+"il mock Builder di PHPUnit"
 
 #: ../../Creational/Builder/README.rst:19
 msgid "Examples"

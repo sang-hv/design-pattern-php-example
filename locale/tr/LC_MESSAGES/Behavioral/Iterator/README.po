@@ -48,7 +48,7 @@ msgid ""
 "interface too, to allow ``count($object)`` on your iterable object."
 msgstr ""
 "Standart PHP Kütüphanesi (Standard PHP Library (SPL)) bunun için harika bir ilerletici arayüz "
-"(`Iterator interface <http://php.net/manual/en/class.iterator.php>`__) tanımlanmıştır. "
+"(`Iterator interface <http://php.net/manual/en/class.Iterator.php>`__) tanımlanmıştır. "
 "Çoğu zaman `Countable <http://php.net/manual/en/class.countable.php>`__ arayüzünü de uygulanımlayarak, "
 "ilerletilebilir nesnenizde ``count()`` yönetimine olanak sağlamak isteyebilirsiniz."
 

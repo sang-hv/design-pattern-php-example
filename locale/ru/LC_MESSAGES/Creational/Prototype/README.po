@@ -24,7 +24,7 @@ msgstr "Назначение"
 #: ../../Creational/Prototype/README.rst:7
 msgid ""
 "To avoid the cost of creating objects the standard way (new Foo()) and "
-"instead create a prototype and clone it."
+"instead create a Prototype and clone it."
 msgstr ""
 "Помогает избежать затрат на создание объектов стандартным способом (new "
 "Foo()), а вместо этого создаёт прототип и затем клонирует его."

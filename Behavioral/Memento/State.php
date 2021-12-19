@@ -35,7 +35,7 @@ class State implements \Stringable
     private static function ensureIsValidState(string $state)
     {
         if (!in_array($state, self::$validStates)) {
-            throw new InvalidArgumentException('Invalid state given');
+            throw new InvalidArgumentException('Invalid State given');
         }
     }
 

@@ -28,8 +28,8 @@ msgstr ""
 
 #: ../../Creational/Builder/README.rst:9
 msgid ""
-"Sometimes, if the builder has a better knowledge of what it builds, this "
-"interface could be an abstract class with default methods (aka adapter)."
+"Sometimes, if the Builder has a better knowledge of what it builds, this "
+"interface could be an abstract class with default methods (aka Adapter)."
 msgstr ""
 "Jeżeli Budowniczy ma najlepszą wiedzę na temat tworzonego obiektu, wtedy zamiast interfejsu "
 "można zastosować klasę abstrakcyjną z domyślnymi metodami (patrz Adapter)."
@@ -44,7 +44,7 @@ msgstr ""
 
 #: ../../Creational/Builder/README.rst:15
 msgid ""
-"Note: Builders have often a fluent interface, see the mock builder of "
+"Note: Builders have often a fluent interface, see the mock Builder of "
 "PHPUnit for example."
 msgstr ""
 "Budowniczy często wykorzystuje `płynny interfejs (ang. fluent interface) <https://en.wikipedia.org/wiki/Fluent_interface>`_ "

@@ -22,7 +22,7 @@ msgstr "Objetivo"
 #: ../../Creational/Prototype/README.rst:7
 msgid ""
 "To avoid the cost of creating objects the standard way (new Foo()) and "
-"instead create a prototype and clone it."
+"instead create a Prototype and clone it."
 msgstr ""
 "Para evitar o custo da criação tradicional de objetos (new Foo()) e "
 "criar um protótipo deste e cloná-los"

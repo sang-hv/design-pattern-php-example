@@ -46,7 +46,7 @@ msgid "Examples"
 msgstr "Örnekler"
 
 #: ../../Behavioral/Strategy/README.rst:21
-msgid "Sorting a list of objects, one strategy by date, the other by id."
+msgid "Sorting a list of objects, one Strategy by date, the other by id."
 msgstr ""
 "Bir nesneler dizisinin sıralanması: birinin 'date', bir diğerinin 'id' değerlerine göre."
 

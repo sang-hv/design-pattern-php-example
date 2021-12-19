@@ -50,7 +50,7 @@ msgid "Examples"
 msgstr "例子"
 
 #: ../../Behavioral/Strategy/README.rst:21
-msgid "sorting a list of objects, one strategy by date, the other by id"
+msgid "sorting a list of objects, one Strategy by date, the other by id"
 msgstr "对对象列表进行排序，一种策略是根据日期，另一种策略是根据id"
 
 #: ../../Behavioral/Strategy/README.rst:22

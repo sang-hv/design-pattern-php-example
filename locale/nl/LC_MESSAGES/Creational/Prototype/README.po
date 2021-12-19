@@ -24,10 +24,10 @@ msgstr "Doel"
 #: ../../Creational/Prototype/README.rst:7
 msgid ""
 "To avoid the cost of creating objects the standard way (new Foo()) and "
-"instead create a prototype and clone it."
+"instead create a Prototype and clone it."
 msgstr ""
 "Om de kosten van het maken van objecten op de standaardmanier (new Foo ()) "
-"te vermijden en in plaats daarvan een prototype te maken en dit te klonen."
+"te vermijden en in plaats daarvan een Prototype te maken en dit te klonen."
 
 #: ../../Creational/Prototype/README.rst:11
 msgid "Examples"

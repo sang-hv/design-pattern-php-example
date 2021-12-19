@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace DesignPatterns\Behavioral\Visitor;
 
 /**
- * Note: the visitor must not choose itself which method to
+ * Note: the Visitor must not choose itself which method to
  * invoke, it is the visited object that makes this decision
  */
 interface RoleVisitor

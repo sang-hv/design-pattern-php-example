@@ -22,15 +22,15 @@ msgstr "Rôle"
 
 #: ../../Creational/Builder/README.rst:7
 msgid "Builder is an interface that build parts of a complex object."
-msgstr "Un builder est une interface permettant de construire certaines parties d'un objet complexe."
+msgstr "Un Builder est une interface permettant de construire certaines parties d'un objet complexe."
 
 #: ../../Creational/Builder/README.rst:9
 msgid ""
-"Sometimes, if the builder has a better knowledge of what it builds, this "
-"interface could be an abstract class with default methods (aka adapter)."
+"Sometimes, if the Builder has a better knowledge of what it builds, this "
+"interface could be an abstract class with default methods (aka Adapter)."
 msgstr ""
-"Parfois, lorsque le builder \"sait\" plus précisément ce qu'il construit, cette "
-"interface pourrait être une classe abstraite avec des méthodes par défaut (alias adapter)."
+"Parfois, lorsque le Builder \"sait\" plus précisément ce qu'il construit, cette "
+"interface pourrait être une classe abstraite avec des méthodes par défaut (alias Adapter)."
 
 #: ../../Creational/Builder/README.rst:12
 msgid ""
@@ -42,7 +42,7 @@ msgstr ""
 
 #: ../../Creational/Builder/README.rst:15
 msgid ""
-"Note: Builders have often a fluent interface, see the mock builder of "
+"Note: Builders have often a fluent interface, see the mock Builder of "
 "PHPUnit for example."
 msgstr ""
 "Note : Les builders ont souvent une désignation chaînée ou chaînage de méthodes (fluent interface), voir le "

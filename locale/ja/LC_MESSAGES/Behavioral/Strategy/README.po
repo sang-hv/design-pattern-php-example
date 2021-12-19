@@ -54,7 +54,7 @@ msgid "Examples"
 msgstr ""
 
 #: ../../Behavioral/Strategy/README.rst:21
-msgid "sorting a list of objects, one strategy by date, the other by id"
+msgid "sorting a list of objects, one Strategy by date, the other by id"
 msgstr ""
 
 #: ../../Behavioral/Strategy/README.rst:22

@@ -22,7 +22,7 @@ msgstr "目的"
 #: ../../Behavioral/State/README.rst:7
 msgid ""
 "Encapsulate varying behavior for the same routine based on an object's "
-"state. This can be a cleaner way for an object to change its behavior at "
+"State. This can be a cleaner way for an object to change its behavior at "
 "runtime without resorting to large monolithic conditional statements."
 msgstr ""
 "根据对象的状态封装一种事务的不同行为。 这更简洁的方式可以在对象在运行时更改其行为，"

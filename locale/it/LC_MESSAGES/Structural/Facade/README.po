@@ -39,30 +39,30 @@ msgstr ""
 "(ma a vole solo una) interfacce riducendo la complessità"
 
 #: ../../Structural/Facade/README.rst:15
-msgid "A facade does not forbid you the access to the sub-system"
-msgstr "Un facade non proibisce di accedere al sottosistema"
+msgid "A Facade does not forbid you the access to the sub-system"
+msgstr "Un Facade non proibisce di accedere al sottosistema"
 
 #: ../../Structural/Facade/README.rst:16
 msgid "You can (you should) have multiple facades for one sub-system"
-msgstr "Si possono avere facade multiple per un unico sottosistema"
+msgstr "Si possono avere Facade multiple per un unico sottosistema"
 
 #: ../../Structural/Facade/README.rst:18
 msgid ""
-"That's why a good facade has no ``new`` in it. If there are multiple "
+"That's why a good Facade has no ``new`` in it. If there are multiple "
 "creations for each method, it is not a Facade, it's a Builder or a "
 "[Abstract\\|Static\\|Simple] Factory [Method]."
 msgstr ""
 "Ecco perchè la Facade non ha ``new`` al suo interno, Se ci fossero creazioni multiple "
-"per ogni metodo, non sarebbe più una facade, ma un Builder o un "
+"per ogni metodo, non sarebbe più una Facade, ma un Builder o un "
 "[Abstract|Static|Simple] Factory."
 
 #: ../../Structural/Facade/README.rst:22
 msgid ""
-"The best facade has no ``new`` and a constructor with interface-type-hinted "
+"The best Facade has no ``new`` and a constructor with interface-type-hinted "
 "parameters. If you need creation of new instances, use a Factory as "
 "argument."
 msgstr ""
-"La miglior facade non ha un ``new`` e un costruttore con parametri tipizzati. "
+"La miglior Facade non ha un ``new`` e un costruttore con parametri tipizzati. "
 "Se si necessita di creare nuove istanze, utilizzare una Factory come parametro. "
 
 #: ../../Structural/Facade/README.rst:13

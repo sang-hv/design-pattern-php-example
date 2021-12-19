@@ -11,7 +11,7 @@ abstract class Registry
     public const LOGGER = 'logger';
 
     /**
-     * this introduces global state in your application which can not be mocked up for testing
+     * this introduces global State in your application which can not be mocked up for testing
      * and is therefor considered an anti-pattern! Use dependency injection instead!
      *
      * @var Service[]

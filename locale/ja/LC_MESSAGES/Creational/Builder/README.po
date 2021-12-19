@@ -32,8 +32,8 @@ msgstr "オブジェクトを組み合わせて、複雑なオブジェクトを
 
 #: ../../Creational/Builder/README.rst:9
 msgid ""
-"Sometimes, if the builder has a better knowledge of what it builds, this "
-"interface could be an abstract class with default methods (aka adapter)."
+"Sometimes, if the Builder has a better knowledge of what it builds, this "
+"interface could be an abstract class with default methods (aka Adapter)."
 msgstr ""
 "ときに、Builderクラス自身が何を構築するのか知っている場合、このインターフェースはデフォルトメソッド"
 "を持つ抽象クラスとなります（Adapter パターン）。"
@@ -47,7 +47,7 @@ msgstr ""
 
 #: ../../Creational/Builder/README.rst:15
 msgid ""
-"Note: Builders have often a fluent interface, see the mock builder of "
+"Note: Builders have often a fluent interface, see the mock Builder of "
 "PHPUnit for example."
 msgstr ""
 "注： Builderクラスの多くは、流れるようなインターフェース（fluent interface）を持っています。"

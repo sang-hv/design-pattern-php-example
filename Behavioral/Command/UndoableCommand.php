@@ -7,7 +7,7 @@ namespace DesignPatterns\Behavioral\Command;
 interface UndoableCommand extends Command
 {
     /**
-     * This method is used to undo change made by command execution
+     * This method is used to undo change made by Command execution
      */
     public function undo();
 }

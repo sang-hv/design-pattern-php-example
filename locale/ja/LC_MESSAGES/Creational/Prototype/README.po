@@ -29,7 +29,7 @@ msgstr "目的"
 #: ../../Creational/Prototype/README.rst:7
 msgid ""
 "To avoid the cost of creating objects the standard way (new Foo()) and "
-"instead create a prototype and clone it."
+"instead create a Prototype and clone it."
 msgstr ""
 "オブジェクトを新しく生成する（new Foo()）コストをかける代わりに"
 "プロトタイプを生成して、それをコピーする。"

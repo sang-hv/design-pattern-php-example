@@ -8,7 +8,7 @@ class User
 {
     public static function fromState(array $state): User
     {
-        // validate state before accessing keys!
+        // validate State before accessing keys!
 
         return new self(
             $state['username'],

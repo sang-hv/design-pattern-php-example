@@ -25,8 +25,8 @@ msgstr "生成器的目的是将复杂对象的创建过程（流程）进行抽
 
 #: ../../Creational/Builder/README.rst:9
 msgid ""
-"Sometimes, if the builder has a better knowledge of what it builds, this "
-"interface could be an abstract class with default methods (aka adapter)."
+"Sometimes, if the Builder has a better knowledge of what it builds, this "
+"interface could be an abstract class with default methods (aka Adapter)."
 msgstr ""
 "在特定的情况下，比如如果生成器对将要创建的对象有足够多的了解，那么代表生成器的接口(interface)可以是"
 "一个抽象类(也就是说可以有一定的具体实现，就像众所周知的适配器模式)。"
@@ -40,7 +40,7 @@ msgstr ""
 
 #: ../../Creational/Builder/README.rst:15
 msgid ""
-"Note: Builders have often a fluent interface, see the mock builder of "
+"Note: Builders have often a fluent interface, see the mock Builder of "
 "PHPUnit for example."
 msgstr ""
 "提示：生成器通常具有流畅的接口，推荐阅读关于 PHPUnit 的mock生成器获取更好的理解。"

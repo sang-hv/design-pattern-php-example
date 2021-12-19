@@ -5,7 +5,7 @@ declare(strict_types=1);
 namespace DesignPatterns\Structural\Composite;
 
 /**
- * The composite node MUST extend the component contract. This is mandatory for building
+ * The Composite node MUST extend the component contract. This is mandatory for building
  * a tree of components.
  */
 class Form implements Renderable

@@ -22,11 +22,11 @@ msgstr "目的"
 #: ../../Behavioral/Observer/README.rst:7
 msgid ""
 "To implement a publish/subscribe behaviour to an object, whenever a "
-"\"Subject\" object changes its state, the attached \"Observers\" will be "
+"\"Subject\" object changes its State, the attached \"Observers\" will be "
 "notified. It is used to shorten the amount of coupled objects and uses loose"
 " coupling instead."
 msgstr ""
-"要实现对象的发布/订阅行为，只要[Subject]对象改变它的状态，就会通知附加的[observer]。"
+"要实现对象的发布/订阅行为，只要[Subject]对象改变它的状态，就会通知附加的[Observer]。"
 "它用于减轻对象的耦合度，并使用松耦合代替。"
 
 #: ../../Behavioral/Observer/README.rst:13

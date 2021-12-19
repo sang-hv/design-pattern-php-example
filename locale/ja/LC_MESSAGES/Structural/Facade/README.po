@@ -40,7 +40,7 @@ msgid ""
 msgstr ""
 
 #: ../../Structural/Facade/README.rst:15
-msgid "A facade does not forbid you the access to the sub-system"
+msgid "A Facade does not forbid you the access to the sub-system"
 msgstr ""
 
 #: ../../Structural/Facade/README.rst:16
@@ -49,14 +49,14 @@ msgstr ""
 
 #: ../../Structural/Facade/README.rst:18
 msgid ""
-"That's why a good facade has no ``new`` in it. If there are multiple "
+"That's why a good Facade has no ``new`` in it. If there are multiple "
 "creations for each method, it is not a Facade, it's a Builder or a "
 "[Abstract\\|Static\\|Simple] Factory [Method]."
 msgstr ""
 
 #: ../../Structural/Facade/README.rst:22
 msgid ""
-"The best facade has no ``new`` and a constructor with interface-type-"
+"The best Facade has no ``new`` and a constructor with interface-type-"
 "hinted parameters. If you need creation of new instances, use a Factory "
 "as argument."
 msgstr ""

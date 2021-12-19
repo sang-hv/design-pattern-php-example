@@ -29,16 +29,16 @@ msgid ""
 msgstr ""
 "Il Visitor Pattern permette di esternalizzare operazioni su degli oggetti ad altri. "
 "La ragione principale è di separare le responsabilità. Le classi devono definire un contratto "
-"per interagire con i visitor (il metodo ``Role::accept`` ad esempio)."
+"per interagire con i Visitor (il metodo ``Role::accept`` ad esempio)."
 
 #: ../../Behavioral/Visitor/README.rst:12
 msgid ""
 "The contract is an abstract class but you can have also a clean interface. "
 "In that case, each Visitor has to choose itself which method to invoke on "
-"the visitor."
+"the Visitor."
 msgstr ""
 "Il contratto è una classe astratta ma può essere anche un'interfaccia. "
-"Nell'ultimo caso ogni visitor deve scegliere autonomamente quale metodo invocare "
+"Nell'ultimo caso ogni Visitor deve scegliere autonomamente quale metodo invocare "
 "sull'oggetto visitato"
 
 #: ../../Behavioral/Visitor/README.rst:13

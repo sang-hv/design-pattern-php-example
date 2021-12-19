@@ -25,8 +25,8 @@ msgstr "Contrutor é uma interface que constrói partes de objetos complexos."
 
 #: ../../Creational/Builder/README.rst:9
 msgid ""
-"Sometimes, if the builder has a better knowledge of what it builds, this "
-"interface could be an abstract class with default methods (aka adapter)."
+"Sometimes, if the Builder has a better knowledge of what it builds, this "
+"interface could be an abstract class with default methods (aka Adapter)."
 msgstr ""
 "As vezes, se o construtor tem melhor conhecimento do que ele cria, essa "
 "interface pode ser uma classe abstrata com métodos padrão (como o padrão adaptador)."
@@ -41,7 +41,7 @@ msgstr ""
 
 #: ../../Creational/Builder/README.rst:15
 msgid ""
-"Note: Builders have often a fluent interface, see the mock builder of "
+"Note: Builders have often a fluent interface, see the mock Builder of "
 "PHPUnit for example."
 msgstr ""
 "Nota: Construtores têm frequentemente, uma interface fluente. Veja o construtor mock do PHPUnit, por exemplo."

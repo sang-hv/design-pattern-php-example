@@ -7,8 +7,8 @@ namespace DesignPatterns\Creational\Builder;
 use DesignPatterns\Creational\Builder\Parts\Vehicle;
 
 /**
- * Director is part of the builder pattern. It knows the interface of the builder
- * and builds a complex object with the help of the builder
+ * Director is part of the Builder pattern. It knows the interface of the Builder
+ * and builds a complex object with the help of the Builder
  *
  * You can also inject many builders instead of one to build more complex objects
  */

@@ -68,8 +68,8 @@ msgid "null handler in a Chain of Responsibilities pattern"
 msgstr "null handler in a Chain of Responsibilities pattern"
 
 #: ../../Behavioral/NullObject/README.rst:27
-msgid "null command in a Command pattern"
-msgstr "null command in a Command pattern"
+msgid "null Command in a Command pattern"
+msgstr "null Command in a Command pattern"
 
 #: ../../Behavioral/NullObject/README.rst:30
 msgid "UML Diagram"
